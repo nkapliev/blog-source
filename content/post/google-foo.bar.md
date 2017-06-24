@@ -1,7 +1,7 @@
 +++
 title = "Google foo.bar"
-date = "2017-06-23T19:58:43+01:00"
-draft = true
+date = "2017-06-24T10:45:58+01:00"
+draft = false
 +++
 
 Once in the evening, I’ve been helped Google to save Bunny Planet.
