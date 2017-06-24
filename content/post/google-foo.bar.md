@@ -15,7 +15,7 @@ In short, anything that can be useful for me to learn how to end my morning work
 Suddenly Google search page start transforming into a terminal window. 
 I was surprised and did not believe my eyes. The first thing I did was a screenshot:
 
-<img src="/static/post/google-foo.bar_1.png" width="780" />  
+<img src="/blog/static/post/google-foo.bar_1.png" width="780" />  
 "You’re speaking our language. Up for a challenge?"
  
 Right after that a thought came to my sharp mind: I did not speak anything, I was silently googling for answers. But somehow Google figured out that I speak their language. Apparently, they bluffed.  
@@ -30,7 +30,7 @@ Well, as my grandpa used to tell me: when you need to save the world, you need t
  
 During my adventure, I’ve made some notes in a [journal](https://github.com/nkapliev/google-foo.bar) that I stored on GitHub.  
 
-<img src="/static/post/google-foo.bar_2.png" width="780">  
+<img src="/blog/static/post/google-foo.bar_2.png" width="780">  
 My first saved bunny
 
 After a while, Google said: Nick, **It's dangerous to go alone! Invite a friend to try a challenge. Send link below. This is a single-use code, so choose wisely.**  
@@ -38,7 +38,7 @@ So be it, couple plannet savers were welcommed aboard :bear: :bear:
 
 In the middle of contest Google told me that he is impressive of my planet-saving skills and want to work with me.  
 He asked for my contact information and some details.  
-<img src="/static/post/google-foo.bar_3.png" width="780" />  
+<img src="/blog/static/post/google-foo.bar_3.png" width="780" />  
 Who knows, maybe, "Planet Saver" it is my vocation. We'll see.  
 
 In the end, I’ve destroyed LAMBCHOP doomsday device, saved lots of bunnies and their planet, and solved lots of interesting problems.  

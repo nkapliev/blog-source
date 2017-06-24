@@ -2,5 +2,5 @@
 
 set -e
 
-hugo server --theme=after-dark --buildDrafts
+hugo server --baseUrl localhost/blog --theme=after-dark --buildDrafts
 
