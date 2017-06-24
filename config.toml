@@ -1,6 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://nkapliev.org/blog/"
 languageCode = "en-us"
 title = "Keep Calm and Solve Problems"
+disqusShortname = "nkapliev"
+googleAnalytics = "UA-80901629-1"
 
 [[menu.main]]
   name = "Home"

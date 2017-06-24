@@ -10,7 +10,7 @@ Hello World!
 
 My name is **Nick Kapliev**.  
 I am a Software Engineer.  
-I know how things work, how to fix them, and how to build better.  
+I know how things work, how to fix them, and how to build better ones.  
 
 Contacts:  
 [nkapliev@gmail.com](mailto:nkapliev@gmail.com)  
