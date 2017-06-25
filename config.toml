@@ -8,7 +8,7 @@ googleAnalytics = "UA-80901629-1"
   name = "Home"
   weight = 1
   identifier = "home"
-  url = "../"
+  url = "https://nkapliev.org/"
 [[menu.main]]
   name = "Blog"
   weight = 2
