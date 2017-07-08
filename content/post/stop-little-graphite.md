@@ -1,7 +1,7 @@
 +++
 title = "Stop, Little Graphite"
-date = "2017-07-08T16:23:38+01:00"
-draft = true
+date = "2017-07-08T16:54:48+01:00"
+draft = false
 +++
 
 **Q**: I have stopped reporting some counters to `graphite` and removed folders/counters related to them. Why `graphite` recreates deleted folders/counters?  
